@@ -1,0 +1,25 @@
+
+.homemaindiv{
+    margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('https://res.cloudinary.com/enchanting/q_90,f_auto,c_lfill,w_1400,h_480,x_w_mul_0.38,y_h_mul_0.41,g_xy_center/enchanting-web/2024/04/Kilchurn-castle-on-Loch-Awe-Scotland-1.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+   display: flex; 
+  justify-content: center;
+  align-items: center;
+}
+
+.createmy{
+    text-align: center;
+    border: none;
+    padding: 10px;
+    background-color: rgb(233, 62, 90);
+    color: white;
+    font-size: 18px;
+    font-size: bold;
+    margin-left: 35%;
+    border-radius: 5px;
+}
